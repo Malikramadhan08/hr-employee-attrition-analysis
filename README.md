@@ -11,7 +11,9 @@ The purpose of this project is to understand employee attrition patterns and ide
 > **Note:** This project identifies patterns and relationships observed in the dataset. It does not establish causal relationships between the analyzed factors and employee attrition.
 
 ---
+## 📊 Dashboard
 
+![HR Employee Attrition Dashboard](hr-employee-attrition-dashboard.png)
 ## 🎯 Objectives
 
 The objectives of this project are to:
